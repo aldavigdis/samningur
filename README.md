@@ -38,25 +38,28 @@ Samningsaðilar, sem og þeir sem starfa fyrir þeirra hönd skulu gæta fyllstu
 ### 3.2 Öryggi verktaka
 Verktaki skal tryggja öryggi verkkaupa m.t.t. líkamlegrar og andlegrar heilsu. Verkkaupi skal sérstaklega tryggja öryggi verktaka á ferðalögum tengdum verkinu.
 
+## 4. Greiðslur
+
+### 4.1. Greiðslumáti
 Að jafnaði skal notast við millifærslu á reikning eða með greiðslu kröfu í netbanka. Samningsaðilar geta þó komið sér saman um að nýta aðrar greiðsluleiðir. Kostnaður vegna millifræslu fellur á verkkaupa nema að samningsaðilar hafi komið sér saman um annað.
 
-### 3.2. Vanskil
+### 4.2. Vanskil
 Verktaki áskilur sér rétt til að senda allar kröfur vegna verksins til þriðja aðila og innheimta hæstu mögulegu dráttarvexti, sem og annan kostnað standi verkkaupi ekki í skilum. Verktaka er ennfremur heimilt að fá utanaðkomandi aðila til að sjá um innheimtu fyrir sína hönd og fellur þá allur kostnaður vegna þess á verkkaupa og áskilur verktaki sér rétt til að vísa öllum samskiptum vegna uppgjörs og greiðslu krafna á þann aðila sem sér um innheimtu.
 
-### 3.3. Fyrirframgreiðsla
+### 4.3. Fyrirframgreiðsla
 Í upphafi verks skal verkkaupi greiða verktaka þriðjung samþykktar heildarupphæðar samningsins, sem gildir sem uppgjör vegna stjórnunarlegrar vinnu, sem og trygging.
 
-### 3.4. Lokagreiðsla
+### 4.4. Lokagreiðsla
 Lokagreiðsla telst hafa átt sér stað þegar verkinu telst vera lokið og verkkaupi hefur greitt verktaka að fullu fyrir vinnu og kostnað. Við lokagreiðslu öðlast verkkaupi rétt til notkunar á þeim hugverkum og afurðum sem unnin eru af verkkaupa og verða til í tengslum við samning þennan.
 
-### 3.5. Mánaðarlegar greiðslur
+### 4.5. Mánaðarlegar greiðslur
 Verktaki skrifar út reikning tuttugasta dag hvers mánaðar sem unnið er að verkinu fyrir útseldri vinnu fram yfir fyrirframgreiðslu og sendir til verkkaupa til greiðslu. Ætlast er til að greiðsla berist fyrir mánaðamót. Sé um lága fjárhæð að ræða geta samningsaðilar komið sér saman um að fresta greiðslu fram að næsta tímabili.
 
+### 4.6. Tímagjald
 Verkkaupi samþykkir tímagjald verktaka í gjaldmiðli sem samningsaðilar koma sér saman um.
 
 
-## 4. Efni, gögn og aðstaða frá verkkaupa
-Verkkaupi skal að jafnaði útvega og eiga fullnægjandi leyfi fyrir viðeigandi hugbúnaði og fullnægjandi vefhýsingu, dulkóðunarvottorð, dulkóðunarlykla, hugbúnað, leturgerðir, grafík, ljósmyndir, sem og önnur hugverk og leggja út fyrir slíkum efniskostnaði í sínu nafni og á sinn reikning.
+## 5. Efni, gögn og aðstaða frá verkkaupa
 
 ## 6. Óviðráðanlegar ástæður (Force Majeure)
 Verði annar hvor samningsaðila fyrir hindrunum við að uppfylla samningsskyldur sínar gagnvart hinum aðilanum af ástæðum, sem honum eru óviðráðanlegar (Force Majeure) frestast viðkomandi skyldur til þess tíma er hindranirnar eru afstaðnar og samningsaðilar geta uppfyllt samningsskyldur sínar. Standi hindrun lengur en í 30 daga getur gagnaðil sagt upp samningnum í samræmi við gr. 5 í samningi þessum, en hvorugur samningsaðila á þá kröfu á hendur hinum umfram efniskostnað.
