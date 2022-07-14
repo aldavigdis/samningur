@@ -71,7 +71,7 @@ Verkkaupi skal að jafnaði útvega og eiga fullnægjandi leyfi fyrir viðeigand
 Verði annar hvor samningsaðila fyrir hindrunum við að uppfylla samningsskyldur sínar gagnvart hinum aðilanum af ástæðum, sem honum eru óviðráðanlegar (Force Majeure) frestast viðkomandi skyldur til þess tíma er hindranirnar eru afstaðnar og samningsaðilar geta uppfyllt samningsskyldur sínar. Standi hindrun lengur en í 30 daga getur gagnaðil sagt upp samningi þessum, en hvorugur samningsaðila á þá kröfu á hendur hinum umfram útlagðan kostnað verktaka.
 
 ## 7. Fylgiskjöl
-Með samningi þessum fylgir verktilboð eða önnur gögn þar sem verkefninu sjálfu, markmiðum og öðru því sem tengist verkinu er lýst nánar. Samningsaðilar skulu líta á verktilboðið og/eða verklýsingu sem fylgiskjöl þessa samnings.
+Með samningi þessum fylgir verktilboð eða önnur gögn þar sem verkefninu sjálfu, markmiðum, skilgreiningu á verklokum og öðru því sem tengist verkinu er lýst nánar. Samningsaðilar skulu líta á verktilboðið og/eða verklýsingu sem fylgiskjöl þessa samnings.
 
 ## Undirskriftir
 
