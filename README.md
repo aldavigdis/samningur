@@ -60,6 +60,7 @@ Verkkaupi samþykkir tímagjald verktaka í gjaldmiðli sem samningsaðilar koma
 
 
 ## 5. Efni, gögn og aðstaða frá verkkaupa
+Verkkaupi skal að jafnaði útvega og eiga fullnægjandi leyfi fyrir viðeigandi hugbúnaði og fullnægjandi vefhýsingu, dulkóðunarvottorð, dulkóðunarlykla, hugbúnað, leturgerðir, grafík, ljósmyndir, sem og önnur hugverk og sérhæfðan búnað og leggja út fyrir slíkum kostnaði í sínu nafni og á sinn reikning.
 
 ## 6. Óviðráðanlegar ástæður (Force Majeure)
 Verði annar hvor samningsaðila fyrir hindrunum við að uppfylla samningsskyldur sínar gagnvart hinum aðilanum af ástæðum, sem honum eru óviðráðanlegar (Force Majeure) frestast viðkomandi skyldur til þess tíma er hindranirnar eru afstaðnar og samningsaðilar geta uppfyllt samningsskyldur sínar. Standi hindrun lengur en í 30 daga getur gagnaðil sagt upp samningi þessum, en hvorugur samningsaðila á þá kröfu á hendur hinum umfram útlagðan kostnað verktaka.
