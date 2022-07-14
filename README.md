@@ -15,16 +15,16 @@ Verkkaupi samþykkir að um sé að ræða raunhæfa verkáætlun og greiðir fy
 ### 2.3 Vinnusamband
 Verktakinn er sjálfstæður verktaki, en ekki starfsmaður verkkaupa, og skal sá skilningur vera gagnkvæmur. Verktaki ræður sínum vinnutíma og hefur rétt á að vinna í öðrum verkefnum. Slíkt gildir einnig um þá sem vinna fyrir hönd verktaka sem undirverktakar.
 
-### 2.5. Trúnaður
+### 2.4. Trúnaður
 Báðir samningsaðilar, starfsmenn þeirra og undirverktaka hafa þagnarskyldu að því er varðar atvik eða málefni hjá hinum aðilanum, sem þeir hafa fengið vitneskju um vegna vinnu sinnar í sambandi við samning þennan og teljast vera trúnaðarmál. Þagnarskyldan gildir eftir lok samningsins.
 
-### 2.6. Seinkanir
+### 2.5. Seinkanir
 Samningsaðilar skulu láta vita um atriði eða aðstæður sem á að skilja að geti tafið framkvæmd verksins. Verktaki ber ekki ábyrgð á skaða eða tjóni sem tafir á verkinu geta valdið. 
 
-### 2.7. Skjölun
+### 2.6. Skjölun
 Skjölun skal vera nægjanleg til þess að hver sá sem hefur viðunandi þekkingu á því forritunarumhverfi sem er notað geti kynnt sér kerfið, bætt við eignleikum og lagað villur sem geta komið upp án beinnar aðkomu verktaka eftir að verkinu hefur verið skilað.
 
-### 2.8. Gæði og ábyrgð
+### 2.7. Gæði og ábyrgð
 Verkkaupi samþykkir við lokagreiðslu að kerfið er afhent í því ástandi sem það er og að í því kunna að leynast gallar. Ekki er tekin ábyrgð á skaða eða tjóni sem hugbúnaðurinn kann að valda.
 
 ## 3. Samskipti og öryggi
@@ -53,7 +53,7 @@ Verktaki áskilur sér rétt til að senda allar kröfur vegna verksins til þri
 Lokagreiðsla telst hafa átt sér stað þegar verkinu telst vera lokið og verkkaupi hefur greitt verktaka að fullu fyrir vinnu og kostnað. Við lokagreiðslu öðlast verkkaupi rétt til notkunar á þeim hugverkum og afurðum sem unnin eru af verkkaupa og verða til í tengslum við samning þennan.
 
 ### 4.5. Mánaðarlegar greiðslur
-Verktaki skrifar út reikning tuttugasta dag hvers mánaðar sem unnið er að verkinu fyrir útseldri vinnu fram yfir fyrirframgreiðslu og sendir til verkkaupa til greiðslu. Ætlast er til að greiðsla berist fyrir mánaðamót. Sé um lága fjárhæð að ræða geta samningsaðilar komið sér saman um að fresta greiðslu fram að næsta tímabili.
+Verktaki skrifar út reikning í lok mánaðar sem unnið er að verkinu og sendir til verkkaupa til greiðslu. Ætlast er til að greiðsla berist innan 5 virkra daga. Sé um lága fjárhæð að ræða geta samningsaðilar komið sér saman um að fresta greiðslu fram að næsta tímabili.
 
 ### 4.6. Tímagjald
 Verkkaupi samþykkir tímagjald verktaka í gjaldmiðli sem samningsaðilar koma sér saman um.
