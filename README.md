@@ -35,6 +35,9 @@ Bindandi samskipti vegna verkefnisins skulu fara fram eða vera staðfest í geg
 ### 3.1. Háttvísi í samskiptum
 Samningsaðilar, sem og þeir sem starfa fyrir þeirra hönd skulu gæta fyllstu háttvísi í samskiptum sín á milli.
 
+### 3.2 Öryggi verktaka
+Verktaki skal tryggja öryggi verkkaupa m.t.t. líkamlegrar og andlegrar heilsu. Verkkaupi skal sérstaklega tryggja öryggi verktaka á ferðalögum tengdum verkinu.
+
 Að jafnaði skal notast við millifærslu á reikning eða með greiðslu kröfu í netbanka. Samningsaðilar geta þó komið sér saman um að nýta aðrar greiðsluleiðir. Kostnaður vegna millifræslu fellur á verkkaupa nema að samningsaðilar hafi komið sér saman um annað.
 
 ### 3.2. Vanskil
@@ -49,8 +52,8 @@ Lokagreiðsla telst hafa átt sér stað þegar verkinu telst vera lokið og ver
 ### 3.5. Mánaðarlegar greiðslur
 Verktaki skrifar út reikning tuttugasta dag hvers mánaðar sem unnið er að verkinu fyrir útseldri vinnu fram yfir fyrirframgreiðslu og sendir til verkkaupa til greiðslu. Ætlast er til að greiðsla berist fyrir mánaðamót. Sé um lága fjárhæð að ræða geta samningsaðilar komið sér saman um að fresta greiðslu fram að næsta tímabili.
 
-### 3.6. Tímagjald
-Verkkaupi samþykkir tímagjald verktaka í krónum.
+Verkkaupi samþykkir tímagjald verktaka í gjaldmiðli sem samningsaðilar koma sér saman um.
+
 
 ## 4. Efni, gögn og aðstaða frá verkkaupa
 Verkkaupi skal að jafnaði útvega og eiga fullnægjandi leyfi fyrir viðeigandi hugbúnaði og fullnægjandi vefhýsingu, dulkóðunarvottorð, dulkóðunarlykla, hugbúnað, leturgerðir, grafík, ljósmyndir, sem og önnur hugverk og leggja út fyrir slíkum efniskostnaði í sínu nafni og á sinn reikning.
