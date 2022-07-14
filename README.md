@@ -15,9 +15,6 @@ Verkkaupi samþykkir að um sé að ræða raunhæfa verkáætlun og greiðir fy
 ### 2.3 Vinnusamband
 Verktakinn er sjálfstæður verktaki, en ekki starfsmaður verkkaupa, og skal sá skilningur vera gagnkvæmur. Verktaki ræður sínum vinnutíma og hefur rétt á að vinna í öðrum verkefnum. Slíkt gildir einnig um þá sem vinna fyrir hönd verktaka sem undirverktakar.
 
-### 2.4. Samskipti
-Bindandi samskipti vegna verkefnisins skulu fara fram eða vera staðfest í gegn um tölvupóst eða með öðrum skriflegum og óvéfengjanlegum hætti. Samningsaðilar skulu að jafnaði bregðast við samskiptum innan tveggja virkra daga frá móttöku. Samningsaðilar, sem og þeir sem starfa fyrir þeirra hönd skulu ennfremur gæta fyllstu háttvísi í samskiptum.
-
 ### 2.5. Trúnaður
 Báðir samningsaðilar, starfsmenn þeirra og undirverktaka hafa þagnarskyldu að því er varðar atvik eða málefni hjá hinum aðilanum, sem þeir hafa fengið vitneskju um vegna vinnu sinnar í sambandi við samning þennan og teljast vera trúnaðarmál. Þagnarskyldan gildir eftir lok samningsins.
 
@@ -30,9 +27,14 @@ Skjölun skal vera nægjanleg til þess að hver sá sem hefur viðunandi þekki
 ### 2.8. Gæði og ábyrgð
 Verkkaupi samþykkir við lokagreiðslu að kerfið er afhent í því ástandi sem það er og að í því kunna að leynast gallar. Ekki er tekin ábyrgð á skaða eða tjóni sem hugbúnaðurinn kann að valda.
 
-## 3. Greiðslur
+## 3. Samskipti og öryggi
 
-### 3.1. Greiðslumáti
+### 3.1. Bindandi samskipti
+Bindandi samskipti vegna verkefnisins skulu fara fram eða vera staðfest í gegn um tölvupóst eða með öðrum skriflegum og óvéfengjanlegum hætti. Samningsaðilar skulu að jafnaði bregðast við samskiptum innan tveggja virkra daga frá móttöku.
+
+### 3.1. Háttvísi í samskiptum
+Samningsaðilar, sem og þeir sem starfa fyrir þeirra hönd skulu gæta fyllstu háttvísi í samskiptum sín á milli.
+
 Að jafnaði skal notast við millifærslu á reikning eða með greiðslu kröfu í netbanka. Samningsaðilar geta þó komið sér saman um að nýta aðrar greiðsluleiðir. Kostnaður vegna millifræslu fellur á verkkaupa nema að samningsaðilar hafi komið sér saman um annað.
 
 ### 3.2. Vanskil
