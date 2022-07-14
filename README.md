@@ -58,6 +58,11 @@ Verktaki skrifar út reikning tuttugasta dag hvers mánaðar sem unnið er að v
 ### 4.6. Tímagjald
 Verkkaupi samþykkir tímagjald verktaka í gjaldmiðli sem samningsaðilar koma sér saman um.
 
+### 4.7. Dagpeningar
+Samningsaðilar koma sér skulu saman um fyrirkomulag dagpeninga á meðan verkinu stendur og skal þá tekið tillit til þeirra upphæða sem ICSC (International Civil Service Commision) miðar við.
+
+### 4.8 Ferðakostnaður
+Flug og ferðir tengdar verkinu skulu vera á almennu farrými en með sveigjanlegu (e. flex) fargjaldi s.s. Icelandair Economy Flex eða Deutsche Bahn Flexpreis á 2. farrými. Verktaki skal að jafnaði leggja út fyrir ferðakostnaði sé það mögulegt.
 
 ## 5. Efni, gögn og aðstaða frá verkkaupa
 Verkkaupi skal að jafnaði útvega og eiga fullnægjandi leyfi fyrir viðeigandi hugbúnaði og fullnægjandi vefhýsingu, dulkóðunarvottorð, dulkóðunarlykla, hugbúnað, leturgerðir, grafík, ljósmyndir, sem og önnur hugverk og sérhæfðan búnað og leggja út fyrir slíkum kostnaði í sínu nafni og á sinn reikning.
