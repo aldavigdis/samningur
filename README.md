@@ -36,7 +36,7 @@ Bindandi samskipti vegna verkefnisins skulu fara fram eða vera staðfest í geg
 Samningsaðilar, sem og þeir sem starfa fyrir þeirra hönd skulu gæta fyllstu háttvísi í samskiptum sín á milli.
 
 ### 3.2 Öryggi verktaka
-Verktaki skal tryggja öryggi verkkaupa m.t.t. líkamlegrar og andlegrar heilsu. Verkkaupi skal sérstaklega tryggja öryggi verktaka á ferðalögum tengdum verkinu.
+Verkkaupi skal tryggja öryggi verktaka m.t.t. líkamlegrar og andlegrar heilsu. Verkkaupi skal sérstaklega tryggja öryggi verktaka á ferðalögum tengdum verkinu.
 
 ## 4. Greiðslur
 
