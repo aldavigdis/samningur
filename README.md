@@ -7,7 +7,7 @@ Samningur þessi er á milli verktaka (%nafn_verktaka%, %kennitala_verktaka% til
 ## 2. Vinnubrögð
 
 ### 2.1. Verksvið verktaka
-Verktaki skal annast þróun og hönnun tiltekins hugbúnaðar innan ramma markmiða og verklýsingar í samningi þessum og þeim skjölum sem honum fylgja.
+Verktaki skal annast viðhald, þróun og hönnun tiltekins hugbúnaðar innan ramma markmiða og verklýsingar í samningi þessum og þeim skjölum sem honum fylgja.
 
 ### 2.2. Ábyrgð verkkaupa á verkáætlun
 Verkkaupi samþykkir að um sé að ræða raunhæfa verkáætlun og greiðir fyrir unnar vinnustundir innan þess ramma sem sannarlega er lagt upp með.
