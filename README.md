@@ -56,7 +56,7 @@ Lokagreiðsla telst hafa átt sér stað þegar verkinu telst vera lokið og ver
 Verktaki skrifar út reikning í lok mánaðar sem unnið er að verkinu og sendir til verkkaupa til greiðslu. Ætlast er til að greiðsla berist innan 5 virkra daga. Sé um lága fjárhæð að ræða geta samningsaðilar komið sér saman um að fresta greiðslu fram að næsta tímabili.
 
 ### 4.6. Tímagjald
-Verkkaupi samþykkir tímagjald verktaka í gjaldmiðli sem samningsaðilar koma sér saman um.
+Verkkaupi samþykkir tímagjald verktaka í gjaldmiðli sem samningsaðilar koma sér saman um. Samningsaðilar geta komið sér saman um að endurskoða tímagjaldið innan gildistíma samningsins með m.t.t. verðlags og gegnissveiflna.
 
 ### 4.7. Dagpeningar
 Samningsaðilar koma sér skulu saman um fyrirkomulag dagpeninga á meðan verkinu stendur og skal þá tekið tillit til þeirra upphæða sem ICSC (International Civil Service Commision) miðar við.
