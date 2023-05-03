@@ -62,7 +62,7 @@ Verkkaupi samþykkir tímagjald verktaka í gjaldmiðli sem samningsaðilar koma
 Samningsaðilar koma sér skulu saman um fyrirkomulag dagpeninga á meðan verkinu stendur og skal þá tekið tillit til þeirra upphæða sem ICSC (International Civil Service Commision) miðar við.
 
 ### 4.8 Ferðakostnaður
-Flug og ferðir tengdar verkinu skulu vera á almennu farrými en með sveigjanlegu (e. flex) fargjaldi s.s. Icelandair Economy Flex eða Deutsche Bahn Flexpreis á 2. farrými. Verktaki skal að jafnaði leggja út fyrir ferðakostnaði sé það mögulegt.
+Verktaki og verkkaupi koma sér saman um fyrirkomulag ferðakostnaðar. Verktaki getur lagt út út fyrir ferðakostnaði sé þess kostur og fær þá greitt fyrir þeim útlagða kostnaði. Að öðrum kosti getur verkkaupi lagt út fyrir ferðakostnaði. Miðað skal við sveigjanlegt fargjald með fullri farangursheimild á almennu farrými (s.s. Icelandair Economy Flex og Deutsche Bahn Flexpreis).
 
 ## 5. Efni, gögn og aðstaða frá verkkaupa
 Verkkaupi skal að jafnaði útvega og eiga fullnægjandi leyfi fyrir viðeigandi hugbúnaði og fullnægjandi vefhýsingu, dulkóðunarvottorð, dulkóðunarlykla, hugbúnað, leturgerðir, grafík, ljósmyndir, sem og önnur hugverk og sérhæfðan búnað og leggja út fyrir slíkum kostnaði í sínu nafni og á sinn reikning.
