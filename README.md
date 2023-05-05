@@ -39,7 +39,7 @@ Samningsaðilar, sem og þeir sem starfa fyrir þeirra hönd skulu gæta fyllstu
 Verkkaupi skal tryggja öryggi verktaka m.t.t. líkamlegrar og andlegrar heilsu. Verkkaupi skal sérstaklega tryggja öryggi verktaka á ferðalögum tengdum verkinu.
 
 ### 3.3 Öryggi verkkaupa
-Verktaki skal fara eftir þeim öryggisreglum sem setar eru á þeim stöðum og í þeim tölvukerfum þar sem verkið er unnið til jafns við starfsfólk og aðra verktaka. Verkkaupi skal jafnframt kynna verktaka þær öryggisreglur sem eru í gildi og séu slíkar reglur þungar í vöfum eða gerð krafa gerð um öryggisnámskeið eða próf þeim tendum skal litið á vinnu þeim tengdum sem útselda vinnu.
+Verktaki skal fara eftir þeim öryggisreglum sem setar eru á þeim stöðum og í þeim tölvukerfum þar sem verkið er unnið til jafns við starfsfólk og aðra verktaka. Verkkaupi skal jafnframt kynna verktaka þær öryggisreglur sem eru í gildi og séu slíkar reglur þungar í vöfum eða gerð krafa gerð um öryggisnámskeið eða próf þeim tengdum telst slíkt vera útseld vinna.
 
 ## 4. Greiðslur
 
