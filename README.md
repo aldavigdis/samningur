@@ -53,7 +53,7 @@ Verktaki áskilur sér rétt til að senda allar kröfur vegna verksins til þri
 Í upphafi verks skal verkkaupi greiða verktaka þriðjung samþykktar heildarupphæðar samningsins, sem gildir sem uppgjör vegna stjórnunarlegrar vinnu, sem og trygging.
 
 ### 4.4. Lokagreiðsla
-Lokagreiðsla telst hafa átt sér stað þegar verkinu telst vera lokið og verkkaupi hefur greitt verktaka að fullu fyrir vinnu og kostnað. Við lokagreiðslu öðlast verkkaupi rétt til notkunar á þeim hugverkum og afurðum sem unnin eru af verkkaupa og verða til í tengslum við samning þennan.
+Við lokagreiðslu öðlast verkkaupi rétt til notkunar á þeim hugverkum og afurðum sem unnin eru af verkkaupa og verða til í tengslum við samning þennan.
 
 ### 4.5. Mánaðarlegar greiðslur
 Verktaki skrifar út reikning í lok mánaðar sem unnið er að verkinu og sendir til verkkaupa til greiðslu. Ætlast er til að greiðsla berist innan 5 virkra daga. Sé um lága fjárhæð að ræða geta samningsaðilar komið sér saman um að fresta greiðslu fram að næsta tímabili.
