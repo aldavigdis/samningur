@@ -32,13 +32,16 @@ Verkkaupi samþykkir við lokagreiðslu að kerfið er afhent í því ástandi 
 ### 3.1. Bindandi samskipti
 Bindandi samskipti vegna verkefnisins skulu fara fram eða vera staðfest í gegn um tölvupóst eða með öðrum skriflegum og óvéfengjanlegum hætti. Samningsaðilar skulu að jafnaði bregðast við samskiptum innan tveggja virkra daga frá móttöku.
 
-### 3.1. Háttvísi í samskiptum
+### 3.2. Háttvísi í samskiptum
 Samningsaðilar, sem og þeir sem starfa fyrir þeirra hönd skulu gæta fyllstu háttvísi í samskiptum sín á milli.
 
-### 3.2 Öryggi verktaka
+### 3.3. Áætlaðir frídagar
+Verkkaupi og verktaki skulu vera upplýstir um áætlaða frí- og orlofsdaga sem gætu haft áhrif á gang verksins. Verði tengiliður annars samningsaðila frá vinnu vegna orlofs eða ólaunaðs frí lengur en í viku í senn skal hann upplýsa verktakann með nægjanlegum fyrirvara og skal þá vera gert samkomulag um hver taki við hlutverki tengiliðsins á meðan.
+
+### 3.4 Öryggi verktaka
 Verkkaupi skal tryggja öryggi verktaka m.t.t. líkamlegrar og andlegrar heilsu. Verkkaupi skal sérstaklega tryggja öryggi verktaka á ferðalögum tengdum verkinu.
 
-### 3.3 Öryggi verkkaupa
+### 3.5 Öryggi verkkaupa
 Verktaki skal fara eftir þeim öryggisreglum sem setar eru á þeim stöðum og í þeim tölvukerfum þar sem verkið er unnið til jafns við starfsfólk og aðra verktaka. Verkkaupi skal jafnframt kynna verktaka þær öryggisreglur sem eru í gildi og séu slíkar reglur þungar í vöfum eða gerð krafa gerð um öryggisnámskeið eða próf þeim tengdum telst slíkt vera útseld vinna.
 
 ## 4. Greiðslur
