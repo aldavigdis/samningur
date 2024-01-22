@@ -36,7 +36,7 @@ Bindandi samskipti vegna verkefnisins skulu fara fram eða vera staðfest í geg
 Samningsaðilar, sem og þeir sem starfa fyrir þeirra hönd skulu gæta fyllstu háttvísi í samskiptum sín á milli.
 
 ### 3.3. Áætlaðir frídagar
-Verkkaupi og verktaki skulu vera upplýstir um áætlaða frí- og orlofsdaga sem gætu haft áhrif á gang verksins. Verði tengiliður annars samningsaðila frá vinnu vegna orlofs eða ólaunaðs frí lengur en í viku í senn skal hann upplýsa verktakann með nægjanlegum fyrirvara og skal þá vera gert samkomulag um hver taki við hlutverki tengiliðsins á meðan.
+Verkkaupi og verktaki skulu vera upplýstir um áætlaða frí- og orlofsdaga sem gætu haft áhrif á gang verksins. Verði tengiliður annars samningsaðila frá vinnu vegna orlofs eða ólaunaðs frí lengur en í viku í senn skal hann upplýsa tengilið hins samningsaðilans með nægjanlegum fyrirvara og skal þá vera gert samkomulag um hver taki við hlutverki tengiliðsins á meðan.
 
 ### 3.4 Öryggi verktaka
 Verkkaupi skal tryggja öryggi verktaka m.t.t. líkamlegrar og andlegrar heilsu. Verkkaupi skal sérstaklega tryggja öryggi verktaka á ferðalögum tengdum verkinu.
